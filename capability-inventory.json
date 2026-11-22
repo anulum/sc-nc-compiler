@@ -1,0 +1,12 @@
+{
+  "capabilities": [],
+  "claims": [],
+  "evidence_maturity": "architecture_only",
+  "lifecycle": "local_scaffold",
+  "qualified_owned_schema_ids": [],
+  "repository_name": "SC-NC-COMPILER",
+  "source_metadata": {
+    "path": "repository-domain.json",
+    "sha256": "b2333f97b9e9a57d179987664c82da681a0625732e00b4b68b66f7a400b97297"
+  }
+}
